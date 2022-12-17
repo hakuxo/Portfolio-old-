@@ -1,0 +1,28 @@
+/* Universal Selection */
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: rgb(73, 73, 65);
+}
+
+.header {
+    height: auto;
+    width: 150%;
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(83, 28, 28);
+    color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+
