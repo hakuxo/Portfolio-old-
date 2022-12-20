@@ -149,10 +149,9 @@ span {
     margin-inline-end: 0px;
 }
 
-
-
-
 /* Section 2! */
+
+/* Work Title */
 #Work {
     display: flex;
     height: 20%;
@@ -160,9 +159,10 @@ span {
     text-align: right;
     font-size: 300%;
     padding-right: 2%;
-    padding-left: 18%;
+    padding-left: 17%;
     justify-content: center;
 }
+/* Entire work section */
 .section2W {
     display:flex;
     height: 100%;
@@ -262,7 +262,7 @@ span {
     display: flex;
 }
 
-
+/* Contact me text */
 #Contact {
     width: 25%;
     font-size: 300%;
@@ -270,13 +270,13 @@ span {
     padding-right: 1%;
     color: #0d2921;
 }
-
+/* Footer box */
 footer {
     height: 100%;
     display: flex;
     align-items: center;
 }
-
+/* Navigation buttons in footer */
 .footernav {
     height: 100%;
     width: 75%;
@@ -285,9 +285,8 @@ footer {
     border-left: 5px solid #0d2921;
     padding-left: 40%;
     margin-top: 2%;
-    
 }
-
+/* Button links in footer */
 .btmlinks {
     color: #c8d5b9;
     border: none;
@@ -299,7 +298,7 @@ footer {
     text-decoration: none;
 }
 
-
+/* Actual button behind those links.. */
 .btn3 {
     color: #eef4e8;
     border: none;
