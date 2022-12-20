@@ -5,9 +5,9 @@
 This website was created as a portfolio to practice my css and html skills.
 
 
-## Installation
+## Screenshot
 
-N/A
+
 
 ## Usage
 
